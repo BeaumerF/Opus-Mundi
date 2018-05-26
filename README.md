@@ -1,6 +1,6 @@
 ![logo](./OpusMundi/Assets/logo2.png)
 
-# Opus-Mundi
+# Opus Mundi
 Immersing into shared knowledge
 
 ![screenA](./OpusMundi/Assets/screen2.png)
