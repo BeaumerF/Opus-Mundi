@@ -21,7 +21,7 @@ As a student, I’d like to :
   - have access to the best technological tools.
 
 ## To do
-- [ ] virtual reality example (actually, it's just a panoramic photo to scroll)
+- [ ] virtual reality example (currently, it's just a panoramic photo to scroll)
 
 ## Can I help you?
 Of course ! By trying to do the tasks of the todo section, by giving advices or by hitting the :star: button !
